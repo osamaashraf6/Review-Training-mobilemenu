@@ -86,7 +86,11 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-- N/A
+ - Add the HTML for the structure.
+ - Add the CSS file for the styling.
+ - Use the linter tool that analyzes my source code to flag programming errors, bugs, stylistic errors, and suspicious constructs.
+ - Use Figma a collaborative UI design tool built in the browser.
+ - Use Flexbox a layout tool in CSS that helps you easily position HTML elements on the page.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -169,7 +173,8 @@ Install deps for this project with:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- N/ A
+- Add some animation and transition.
+- Make the website dark mode and light mode👌
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
