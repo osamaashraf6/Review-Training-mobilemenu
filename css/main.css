@@ -23,7 +23,7 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 15px;
-  background-color: #df20d3;
+  background-color: #3c3a39;
   color: white;
 }
 
@@ -36,7 +36,7 @@ header {
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: bold;
-  font-size: 60px;
+  font-size: 18px;
   line-height: 24px;
 }
 
@@ -59,16 +59,11 @@ main {
 
 #intro,
 #about-me {
-  background-color: #73e82b;
+  background-color: #1c1a19;
   color: white;
   position: relative;
 }
 
-/* #intro {
-  padding: 60%;
-  padding: 50px;
-  margin: 0 auto;
-} */
 
 #intro {
   padding: 10%;
@@ -477,8 +472,7 @@ textarea {
   }
 
   #logo {
-    font-size: 60px;
-    width: 20px;
+    font-size: 24px;
   }
 
   .first-card {
